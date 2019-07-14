@@ -1,0 +1,10 @@
+
+GET http://localhost:8080/conneg/api/customers
+Accept: application/vnd.schoeffm-v1+json
+
+###
+
+GET http://localhost:8080/conneg/api/customers
+Accept: application/vnd.schoeffm-v2+json
+
+###
